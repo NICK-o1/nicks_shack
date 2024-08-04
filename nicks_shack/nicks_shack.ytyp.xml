@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<CMapTypes>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="32" />
+      <specialAttribute value="0" />
+      <bbMin x="-6.375635" y="-3.9182134" z="-1.2250538" />
+      <bbMax x="6.375635" y="3.9182134" z="1.2250538" />
+      <bsCentre x="0.0" y="0.0" z="0.0" />
+      <bsRadius value="7.582999" />
+      <hdTextureDist value="40" />
+      <name>nicks_shack_int</name>
+      <textureDictionary>nicks_shack_int</textureDictionary>
+      <physicsDictionary>nicks_shack_int</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>nicks_shack_int</assetName>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="60" />
+      <flags value="32" />
+      <specialAttribute value="0" />
+      <bbMin x="-6.375635" y="-3.9182134" z="-1.2250538" />
+      <bbMax x="6.375635" y="3.9182134" z="1.2250538" />
+      <bsCentre x="0.0" y="0.0" z="0.0" />
+      <bsRadius value="7.582999" />
+      <hdTextureDist value="40" />
+      <name>nicks_shack_ext</name>
+      <textureDictionary>nicks_shack_ext</textureDictionary>
+      <physicsDictionary>nicks_shack_ext</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>nicks_shack_ext</assetName>
+    </Item>
+  </archetypes>
+  <name>nicks_shack</name>
+</CMapTypes>
